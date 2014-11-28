@@ -89,7 +89,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: "http://townzmc.com/home/m/25692212/article/2637604"
+        rulesLink: "http://www.thinklikegeeks.com/plug.dj.rules.html"
         themeLink: null,
         fbLink: "http://facebook.thinklikegeeks.com"
         youtubeLink: "http://youtube.thinklikegeeks.com"
